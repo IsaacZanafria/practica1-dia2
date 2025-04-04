@@ -40,7 +40,7 @@ export function Cards() {
 
 
   return (
-    <div className=" w-[85%] md:w-[90%] lg:w-[80%] xl:w-[55%] h-[95%] grid grid-cols-2 md:grid-cols-3 gap-6">
+    <div className=" w-75 mx-auto md:w-[90%] lg:w-[80%] xl:w-[55%] h-[95%] grid grid-cols-2 md:grid-cols-3 gap-6">
             {allCards}
     </div>
   )
