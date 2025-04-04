@@ -1,26 +1,26 @@
 export function Cards() {
   const cards = [
-    {photo:"../public/img/photo1.png",
+    {photo:"/img/photo1.png",
      desc:"PRODUCT OWNER",
      name:"Bill Mahoney"
     },
-    {photo:"../public/img/photo2.png",
+    {photo:"/img/photo2.png",
         desc:"ART DIRECTORS",
         name:"Saba Cabrera"
     },
-    {photo:"../public/img/photo3.png",
+    {photo:"/img/photo3.png",
         desc:"TECH LEAD",
         name:"Shae Le"
     },
-    {photo:"../public/img/photo4.png",
+    {photo:"/img/photo4.png",
         desc:"UX DESIGNER",
         name:"Skylah Lu"
     },
-    {photo:"../public/img/photo5.png",
+    {photo:"/img/photo5.png",
         desc:"DEVELOPER",
         name:"Griff Richards"
     },
-    {photo:"../public/img/photo6.png",
+    {photo:"/img/photo6.png",
         desc:"PRODUCT OWNER",
         name:"Stan John"
     }
